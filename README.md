@@ -1,4 +1,4 @@
-# Determining the Profitable Mobile App on Apple Store and Google Play store
+# Determining the Profitable Mobile Apps on Apple Store and Google Play store
 
 #### About The Project  
 This Project is for a company that builds free Android and iOS mobile apps and has made their apps available on Google Play and in the App Store. Our main source of revenue consists of in-app ads.
